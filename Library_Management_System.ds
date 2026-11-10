@@ -1,9 +1,9 @@
 /*
- * Author       : neildaniel.a.2024.cse_raj609
- * Generated on : 06-Oct-2026 19:57:56
+ * Author       : vishaali.s.2024.cse_raj609
+ * Generated on : 12-Oct-2026 19:57:56
  * Version      : 1.0
  */
- application "Student Management System"
+ application "Library Management System"
  {
  	date format = "dd-MMM-yyyy"
  	time zone = "Asia/Kolkata"
